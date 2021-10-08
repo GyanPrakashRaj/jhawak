@@ -1,13 +1,12 @@
 /*
- * To change this license header, choose License Headers in Project Properties.
- * To change this template file, choose Tools | Templates
+ * To change please first ask for it to me or http:/gyanrobogx.in/
  * and open the template in the editor.
  */
 package primenumbers;
 
 /**
  *
- * @author Bluelime Learning So
+ * @author gyanrobogx
  */
 import java.io.*;
 
